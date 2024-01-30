@@ -13,5 +13,7 @@ Recipe Site Traffic Information and Instructions:
 
 ## Code and Outputs
 DataCamp: https://app.datacamp.com/workspace/w/b5269fe3-106a-4ec3-a6e1-e1b30eaf13f0/edit 
+
 Google Collab: https://colab.research.google.com/drive/1-WeQaqY_S9sQ_sj-qkUwr3NSQviJH9Y4 
+
 Google Slides: https://docs.google.com/presentation/d/1GH1iYgQLtqgEIeTmZvRz9taeowjpid2me3Afdd7ia2U/edit#slide=id.p1 
